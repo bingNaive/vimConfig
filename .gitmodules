@@ -1,0 +1,6 @@
+[submodule "pack/vendor/start/nerdtree"]
+	path = pack/vendor/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/vendor/start/indentLine"]
+	path = pack/vendor/start/indentLine
+	url = https://github.com/Yggdroot/indentLine.git
